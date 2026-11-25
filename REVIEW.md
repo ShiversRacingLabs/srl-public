@@ -1,9 +1,9 @@
 # Public website M1 review gate
 
-Status: draft; public repository branch is visible but Pages is not enabled by this change.
+Status: M1 design approved by owner on 2026-11-25 for a public development preview. Legal policies remain drafts; the bot is not ready for installation or live use.
 
-Before activating Pages or adding URLs to Discord:
-- Owner approves visual design and public project descriptions.
+Before activating the preview, verify deployment and keep all draft labels. Before adding final policy URLs to Discord or operating the bot, complete the following release gates:
+- Owner approved the website visual direction: modern motorsport styling, clean navigation, readable content and function first.
 - Dedicated support/privacy mailbox established: shiversracinglabs@gmail.com. Self-addressed delivery test confirmed by owner; verify ongoing monitoring and any identity details required by applicable law.
 - Confirm hosting provider, actual data fields, deletion/retention and backup behavior; align policy to implemented code.
 - Confirm effective date, applicable legal requirements and final policy/terms wording. Drafts are not legal advice.
