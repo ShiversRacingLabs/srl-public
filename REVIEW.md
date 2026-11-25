@@ -4,7 +4,7 @@ Status: draft; public repository branch is visible but Pages is not enabled by t
 
 Before activating Pages or adding URLs to Discord:
 - Owner approves visual design and public project descriptions.
-- Confirm a monitored private support/privacy contact and identity details required by applicable law.
+- Dedicated support/privacy mailbox established: shiversracinglabs@gmail.com. Self-addressed delivery test confirmed by owner; verify ongoing monitoring and any identity details required by applicable law.
 - Confirm hosting provider, actual data fields, deletion/retention and backup behavior; align policy to implemented code.
 - Confirm effective date, applicable legal requirements and final policy/terms wording. Drafts are not legal advice.
 - Implement and test deletion, retention, incident response and policy access within the bot before live operation.
