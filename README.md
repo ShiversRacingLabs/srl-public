@@ -15,6 +15,10 @@ This repository contains the informational SRL website, the F1 Hidden Tech produ
 
 No JavaScript, external fonts, analytics scripts, forms or paid services are needed. The brand image is the public GitHub organization avatar. The product wordmark is an original text treatment for this site.
 
+## Contact
+
+Public support and private privacy inquiries: shiversracinglabs@gmail.com. Do not submit credentials or personal data in public GitHub issues.
+
 ## Publishing
 
 After review, configure GitHub Pages to deploy from main / (root). No deployment is configured by this branch. Use HTTPS and verify links before adding policy URLs to the Discord application. This site is informational, not a storefront or SaaS host.
