@@ -2,12 +2,12 @@
 
 Independent motorsport technology, race instrumentation and technical education.
 
-This repository contains the informational SRL website, the F1 Hidden Tech product overview, and draft legal documentation. Bot software is maintained separately and is not included here.
+This repository contains the informational SRL website, the SRL Hidden Tech product overview, and draft legal documentation. Bot software is maintained separately and is not included here.
 
 ## Website M1
 
 - index.html — SRL headquarters and project overview
-- hidden-tech.html — F1 Hidden Tech product preview
+- hidden-tech.html — SRL Hidden Tech product preview
 - privacy.html — draft privacy policy
 - terms.html — draft terms of service
 - style.css — responsive carbon/red and cyan design system
